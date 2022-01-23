@@ -38,8 +38,6 @@ public class 신고_결과_받기 {
         return answer;
     }
 
-
-
     public static void main(String[] args) {
         System.out.println(Arrays.toString(solution(
                 new String[]{"muzi", "frodo", "apeach", "neo"},
