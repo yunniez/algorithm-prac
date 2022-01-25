@@ -1,10 +1,10 @@
 public class S78 {
 	public static void main(String[] args) {
-		double num = 626331;
+		int num = 626331;
 		System.out.println(solution(num));
 	}
 	
-	public static int solution(double num) {
+	public static int solution(int num) {
         int answer = 0;
         
         while(num != 1){
